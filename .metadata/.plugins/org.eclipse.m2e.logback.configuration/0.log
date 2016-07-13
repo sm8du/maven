@@ -162,3 +162,7 @@
 2016-07-13 10:44:58,700 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/main/resources
 2016-07-13 10:44:58,702 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-13 10:44:58,702 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/test/resources
+2016-07-13 10:45:34,000 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:45:34,000 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/main/resources
+2016-07-13 10:45:34,002 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:45:34,002 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/test/resources
