@@ -1,0 +1,81 @@
+2016-07-13 10:16:15,465 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/pom.xml
+2016-07-13 10:16:16,079 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:Stefan:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/pom.xml.
+2016-07-13 10:16:16,552 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Stefan/src/main/java
+2016-07-13 10:16:16,555 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Stefan/src/test/java
+2016-07-13 10:16:17,175 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2016-07-13 10:16:17,878 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:Stefan:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/pom.xml.
+2016-07-13 10:16:17,983 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:17,983 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/main/resources
+2016-07-13 10:16:17,985 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:17,986 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/test/resources
+2016-07-13 10:16:18,045 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:Stefan:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/pom.xml.
+2016-07-13 10:16:19,025 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:19,025 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/main/resources
+2016-07-13 10:16:19,026 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:19,026 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/test/resources
+2016-07-13 10:16:24,141 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-13 10:16:24,182 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:Stefan:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/pom.xml.
+2016-07-13 10:16:24,213 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Stefan/src/main/java
+2016-07-13 10:16:24,214 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Stefan/src/test/java
+2016-07-13 10:16:24,264 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-13 10:16:24,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:24,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/main/resources
+2016-07-13 10:16:24,395 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:16:24,396 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan/src/test/resources
+2016-07-13 10:16:33,343 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-13 10:16:39,331 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan
+2016-07-13 10:16:39,332 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean package
+2016-07-13 10:17:33,607 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:minPomRequirements:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/minPomRequirements/pom.xml.
+2016-07-13 10:17:33,642 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:33,643 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/main/resources
+2016-07-13 10:17:33,645 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:33,646 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/test/resources
+2016-07-13 10:17:33,877 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:33,878 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/main/resources
+2016-07-13 10:17:33,879 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:33,880 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/test/resources
+2016-07-13 10:17:34,263 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:maventutorial1:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/mvntutorial1/pom.xml.
+2016-07-13 10:17:34,312 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:34,312 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/main/resources
+2016-07-13 10:17:34,314 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:34,314 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/test/resources
+2016-07-13 10:17:34,432 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:minPomRequirements:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/minPomRequirements/pom.xml.
+2016-07-13 10:17:34,481 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:maventutorial1:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/mvntutorial1/pom.xml.
+2016-07-13 10:17:35,338 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:35,338 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/main/resources
+2016-07-13 10:17:35,339 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:35,340 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/test/resources
+2016-07-13 10:17:35,362 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:35,363 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/main/resources
+2016-07-13 10:17:35,366 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:35,366 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/test/resources
+2016-07-13 10:17:44,988 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-13 10:17:45,037 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:minPomRequirements:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/minPomRequirements/pom.xml.
+2016-07-13 10:17:45,052 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:maventutorial1:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/mvntutorial1/pom.xml.
+2016-07-13 10:17:45,084 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /minPomRequirements/src/main/java
+2016-07-13 10:17:45,084 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /minPomRequirements/src/test/java
+2016-07-13 10:17:45,129 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mvntutorial1/src/main/java
+2016-07-13 10:17:45,131 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mvntutorial1/src/test/java
+2016-07-13 10:17:45,207 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-13 10:17:45,381 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:minPomRequirements:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/minPomRequirements/pom.xml.
+2016-07-13 10:17:45,417 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:45,418 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/main/resources
+2016-07-13 10:17:45,419 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-13 10:17:45,420 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/minPomRequirements/src/test/resources
+2016-07-13 10:17:45,500 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:maventutorial1:0.0.1-SNAPSHOT @ /Users/Moscalu/git/maven-java-console-application/mvntutorial1/pom.xml.
+2016-07-13 10:17:45,572 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:45,572 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/main/resources
+2016-07-13 10:17:45,573 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 10:17:45,573 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Moscalu/git/maven-java-console-application/mvntutorial1/src/test/resources
+2016-07-13 10:17:55,309 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-13 10:18:00,257 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Moscalu/git/maven-java-console-application/mvntutorial1
+2016-07-13 10:18:00,257 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean packages
+2016-07-13 10:18:22,990 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-13 10:18:28,588 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Moscalu/git/maven-java-console-application/mvntutorial1
+2016-07-13 10:18:28,588 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean packages
+2016-07-13 10:18:43,101 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-13 10:18:46,443 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /usr/local/apache-maven/apache-maven-3.3.9/Projects/Stefan
+2016-07-13 10:18:46,444 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean packages
+2016-07-13 10:18:54,139 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-13 10:18:57,546 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Moscalu/git/maven-java-console-application/mvntutorial1
+2016-07-13 10:18:57,546 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean package
