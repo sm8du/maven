@@ -369,3 +369,22 @@
 2016-07-13 18:34:54,148 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2016-07-13 18:34:57,012 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate - /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops
 2016-07-13 18:34:57,013 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s /Users/Moscalu/.m2/settings.xml clean install
+2016-07-13 19:18:33,600 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:18:33,603 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/main/resources
+2016-07-13 19:18:33,604 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:18:33,604 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops/src/test/resources
+2016-07-13 19:24:23,097 [Worker-104] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/pom.xml
+2016-07-13 19:24:23,152 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:HelloWorld:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/pom.xml.
+2016-07-13 19:24:23,202 [Worker-104] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2016-07-13 19:24:23,204 [Worker-104] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2016-07-13 19:24:23,248 [Worker-104] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-13 19:24:23,429 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:HelloWorld:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/pom.xml.
+2016-07-13 19:24:23,459 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:24:23,459 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/src/main/resources
+2016-07-13 19:24:23,459 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:24:23,459 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/src/test/resources
+2016-07-13 19:24:24,298 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Moscalu:HelloWorld:0.0.1-SNAPSHOT @ /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/pom.xml.
+2016-07-13 19:24:24,476 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:24:24,476 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/src/main/resources
+2016-07-13 19:24:24,477 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-13 19:24:24,478 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld/src/test/resources
