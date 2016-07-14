@@ -23,8 +23,30 @@
 			<verbose>false</verbose>
 		</configuration>
 	</plugin>
+	<plugin>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-jar-plugin</artifactId>
+  <configuration>
+    <archive>
+      <manifest>
+        <addClasspath>true</addClasspath>
+        <classpathPrefix>${project.build.finalName}.lib/</classpathPrefix>
+        <mainClass>${fully.qualified.main.class}</mainClass>
+      </manifest>
+    </archive>
+  </configuration>
+</plugin>
 	</plugins>
+
+
+	
+
+	
+	
+	
 	</build>
+	
+	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -34,3 +56,5 @@
     </dependency>
   </dependencies>
 </project>
+
+
