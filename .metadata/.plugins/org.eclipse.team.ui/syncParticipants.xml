@@ -10,7 +10,7 @@
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="/usr/local/apache-maven/apache-maven-3.3.9/Projects/Loops" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="/usr/local/apache-maven/apache-maven-3.3.9/Projects/HelloWorld" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
 </data>
 </participant>
 </syncparticipants>
