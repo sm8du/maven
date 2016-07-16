@@ -1,0 +1,9 @@
+package Moscalu.Zombies;
+
+public class InfoFrame {
+
+	public InfoFrame() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

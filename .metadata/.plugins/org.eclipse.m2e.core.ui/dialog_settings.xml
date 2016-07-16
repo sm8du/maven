@@ -62,8 +62,10 @@
 		<list key="package">
 		</list>
 		<list key="groupId">
+			<item value="Moscalu"/>
 		</list>
 		<list key="artifactId">
+			<item value="Stacks"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

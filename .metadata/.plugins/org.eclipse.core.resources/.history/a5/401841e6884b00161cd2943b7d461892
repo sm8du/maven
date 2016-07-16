@@ -1,0 +1,9 @@
+package Moscalu.Zombies;
+
+public class Friendly {
+
+	public Friendly() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

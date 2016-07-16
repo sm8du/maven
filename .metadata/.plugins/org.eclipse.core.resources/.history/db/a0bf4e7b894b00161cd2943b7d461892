@@ -1,0 +1,9 @@
+package Moscalu.Zombies;
+
+public class SurvivalField {
+
+	public SurvivalField() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
